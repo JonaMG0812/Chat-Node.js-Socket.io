@@ -1,0 +1,19 @@
+{
+  "name": "node-socket",
+  "version": "1.0.0",
+  "description": "Chat node.js and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonaMG0812/Chat-Node.js-Socket.io.git"
+  },
+  "author": "Jonathan MG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonaMG0812/Chat-Node.js-Socket.io/issues"
+  },
+  "homepage": "https://github.com/JonaMG0812/Chat-Node.js-Socket.io#readme"
+}
